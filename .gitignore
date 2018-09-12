@@ -79,6 +79,7 @@ buildNumber.properties
 .classpath
 .settings
 .metadata
+bin/
 
 # config file
 application.properties
