@@ -1,7 +1,7 @@
 # 技术书籍PDF
 ## 说明
-以下PDF文件均为个人工作、学习过程当中收集参考的资料, 为方便个人的查阅建立该仓库。
-部分PDF收集的时间过长, 收集的来源途径已不明确。
+以下PDF文件均为个人工作、学习过程当中收集参考的资料, 为方便个人的查阅建立该仓库。<br />
+部分PDF收集的时间过长, 收集的来源途径已不明确。<br />
 若涉及侵权问题, 请与我联系 <a href="mailto:bigsea1994@gmail.com">bigsea1994@gmail.com</a>。
 ## 目录
 ### [Alibaba](https://github.com/zhaohaihao/hilox-studybook/tree/master/Alibaba)
