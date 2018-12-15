@@ -17,3 +17,6 @@
 ## [Http](https://github.com/zhaohaihao/hilox-studybook/tree/master/Http)
 - [HTTP权威指南[中文版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Http/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%5B%E4%B8%AD%E6%96%87%E7%89%88%5D.pdf)
 - [图解HTTP[彩色版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Http/%E5%9B%BE%E8%A7%A3HTTP%5B%E5%BD%A9%E8%89%B2%E7%89%88%5D.pdf)
+## [MongoDB](https://github.com/zhaohaihao/hilox-studybook/tree/master/MongoDB)
+- [MongoDB权威指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+- [深入学习MongoDB](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
