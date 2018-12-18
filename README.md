@@ -22,3 +22,6 @@
 - [深入学习MongoDB](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
 ## [MySQL](https://github.com/zhaohaihao/hilox-studybook/tree/master/MySQL)
 - [高性能MySQL[第3版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/MySQL/%E9%AB%98%E6%80%A7%E8%83%BDMySQL_%E7%AC%AC3%E7%89%88.pdf)
+## [Netty](https://github.com/zhaohaihao/hilox-studybook/tree/master/Netty)
+- [Netty权威指南[第2版上]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Netty/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20%E7%AC%AC2%E7%89%88(%E4%B8%8A).pdf)
+- [Netty权威指南[第2版下]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Netty/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20%E7%AC%AC2%E7%89%88(%E4%B8%8B).pdf)
