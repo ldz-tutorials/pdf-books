@@ -27,5 +27,5 @@
 - [Netty权威指南[第2版下]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Netty/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%20%E7%AC%AC2%E7%89%88(%E4%B8%8B).pdf)
 ## [Python](https://github.com/zhaohaihao/hilox-studybook/tree/master/Python)
 - [Python3简明教程[中文版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Python/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
-- [笨办法学Python[第四版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Python/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6%20Python(%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)
+- [笨办法学Python[第四版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Python/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6%20Python(%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf))
 
