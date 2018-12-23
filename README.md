@@ -28,4 +28,6 @@
 ## [Python](https://github.com/zhaohaihao/hilox-studybook/tree/master/Python)
 - [Python3简明教程[中文版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Python/Python3%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
 - [笨办法学Python[第四版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Python/%E7%AC%A8%E5%8A%9E%E6%B3%95%E5%AD%A6Python(%E7%AC%AC%E5%9B%9B%E7%89%88).pdf)
+## [Shiro](https://github.com/zhaohaihao/hilox-studybook/tree/master/Shiro)
+- [Apache_Shiro开发文档](https://github.com/zhaohaihao/hilox-studybook/blob/master/Shiro/Apache_Shiro%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3.pdf)
 
