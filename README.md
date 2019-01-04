@@ -37,3 +37,5 @@
 - [Spring Boot实战](https://github.com/zhaohaihao/hilox-studybook/blob/master/SpringBoot/Spring%20Boot%E5%AE%9E%E6%88%98.pdf)
 ## [SpringMVC](https://github.com/zhaohaihao/hilox-studybook/tree/master/SpringMVC)
 - [看透springMvc源代码分析与实践](https://github.com/zhaohaihao/hilox-studybook/blob/master/SpringMVC/%E7%9C%8B%E9%80%8FspringMvc%E6%BA%90%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
+## [Tomcat](https://github.com/zhaohaihao/hilox-studybook/tree/master/Tomcat)
+- [how-tomcat-works](https://github.com/zhaohaihao/hilox-studybook/blob/master/Tomcat/how-tomcat-works/how-tomcat-works%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC.pdf)
