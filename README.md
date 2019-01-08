@@ -39,3 +39,6 @@
 - [看透springMvc源代码分析与实践](https://github.com/zhaohaihao/hilox-studybook/blob/master/SpringMVC/%E7%9C%8B%E9%80%8FspringMvc%E6%BA%90%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 ## [Tomcat](https://github.com/zhaohaihao/hilox-studybook/tree/master/Tomcat)
 - [how-tomcat-works](https://github.com/zhaohaihao/hilox-studybook/blob/master/Tomcat/how-tomcat-works/how-tomcat-works%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC.pdf)
+## [分布式](https://github.com/zhaohaihao/hilox-studybook/tree/master/%E5%88%86%E5%B8%83%E5%BC%8F)
+- [从Paxos到Zookeeper 分布式一致性原理与实践](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/%E4%BB%8EPaxos%E5%88%B0Zookeeper%20%20%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
+- [分布式JAVA应用+基础与实践](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8FJAVA%E5%BA%94%E7%94%A8%2B%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
