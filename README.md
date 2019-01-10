@@ -44,3 +44,5 @@
 - [分布式JAVA应用+基础与实践](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8FJAVA%E5%BA%94%E7%94%A8%2B%E5%9F%BA%E7%A1%80%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)
 ## [大数据](https://github.com/zhaohaihao/hilox-studybook/tree/master/%E5%A4%A7%E6%95%B0%E6%8D%AE)
 - [Spark快速大数据分析](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+## [微服务](https://github.com/zhaohaihao/hilox-studybook/tree/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1)
+- [使用SpringCloud和Docker实战微服务](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E4%BD%BF%E7%94%A8SpringCloud%E5%92%8CDocker%E5%AE%9E%E6%88%98%E5%BE%AE%E6%9C%8D%E5%8A%A1.pdf)
