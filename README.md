@@ -46,3 +46,6 @@
 - [Spark快速大数据分析](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE/Spark%E5%BF%AB%E9%80%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
 ## [微服务](https://github.com/zhaohaihao/hilox-studybook/tree/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1)
 - [使用SpringCloud和Docker实战微服务](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E5%BE%AE%E6%9C%8D%E5%8A%A1/%E4%BD%BF%E7%94%A8SpringCloud%E5%92%8CDocker%E5%AE%9E%E6%88%98%E5%BE%AE%E6%9C%8D%E5%8A%A1.pdf)
+## [网站架构](https://github.com/zhaohaihao/hilox-studybook/tree/master/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84)
+- [大型网站技术架构：核心原理与案例分析](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%EF%BC%9A%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.pdf)
+- [大型网站系统与Java中间件实践](https://github.com/zhaohaihao/hilox-studybook/blob/master/%E7%BD%91%E7%AB%99%E6%9E%B6%E6%9E%84/%E5%A4%A7%E5%9E%8B%E7%BD%91%E7%AB%99%E7%B3%BB%E7%BB%9F%E4%B8%8EJava%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%AE%9E%E8%B7%B5.pdf)
