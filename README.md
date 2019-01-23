@@ -19,6 +19,7 @@
 - [图解HTTP[彩色版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Http/%E5%9B%BE%E8%A7%A3HTTP%5B%E5%BD%A9%E8%89%B2%E7%89%88%5D.pdf)
 ## [Java](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java)
 - [Effective Java [中文第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+- [Java多线程编程指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 ## [MongoDB](https://github.com/zhaohaihao/hilox-studybook/tree/master/MongoDB)
 - [MongoDB权威指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 - [深入学习MongoDB](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
