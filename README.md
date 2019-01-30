@@ -18,6 +18,7 @@
 - [HTTP权威指南[中文版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Http/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%5B%E4%B8%AD%E6%96%87%E7%89%88%5D.pdf)
 - [图解HTTP[彩色版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Http/%E5%9B%BE%E8%A7%A3HTTP%5B%E5%BD%A9%E8%89%B2%E7%89%88%5D.pdf)
 ## [Java](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java)
+- [Java并发编程的艺术完整高清PDF&源码](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%8C%E6%95%B4%E9%AB%98%E6%B8%85PDF%26%E6%BA%90%E7%A0%81)
 - [多线程编程核心技术](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF)
 - [Effective Java [中文第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 - [Java多线程编程指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
