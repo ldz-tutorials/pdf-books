@@ -23,6 +23,7 @@
 - [Effective Java [中文第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 - [Java多线程编程指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 - [Java消息服务[第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Java%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+- [java编程思想中文[第4版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/%5Bjava%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E4%B8%AD%E6%96%87(%E7%AC%AC4%E7%89%88)%5D-2007.pdf)
 ## [MongoDB](https://github.com/zhaohaihao/hilox-studybook/tree/master/MongoDB)
 - [MongoDB权威指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
 - [深入学习MongoDB](https://github.com/zhaohaihao/hilox-studybook/blob/master/MongoDB/%E6%B7%B1%E5%85%A5%E5%AD%A6%E4%B9%A0MongoDB.pdf)
