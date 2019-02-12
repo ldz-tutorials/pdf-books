@@ -20,7 +20,7 @@
 ## [Java](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java)
 - [Java并发编程的艺术完整高清PDF&源码](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%8C%E6%95%B4%E9%AB%98%E6%B8%85PDF%26%E6%BA%90%E7%A0%81)
 - [多线程编程核心技术](https://github.com/zhaohaihao/hilox-studybook/tree/master/Java/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF)
-- [Effective Java [中文第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
+- [Effective Java[中文第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88.pdf)
 - [Java多线程编程指南](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
 - [Java消息服务[第二版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/Java%E6%B6%88%E6%81%AF%E6%9C%8D%E5%8A%A1%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 - [java编程思想中文[第4版]](https://github.com/zhaohaihao/hilox-studybook/blob/master/Java/%5Bjava%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E4%B8%AD%E6%96%87(%E7%AC%AC4%E7%89%88)%5D-2007.pdf)
